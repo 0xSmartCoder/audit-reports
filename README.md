@@ -62,5 +62,5 @@ The reports do not represent an endorsement of any protocol, project, or busines
 
 ## Author
 
-**Abdullah Sana**
+**Abdullah Amr**
 Smart Contract Security Researcher
