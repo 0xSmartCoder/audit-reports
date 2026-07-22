@@ -48,9 +48,9 @@ My review process may include:
 ```text
 audit-reports/
 ├── PuppyRaffle/
-│   └── PuppyRaffle_Audit_Report.md
+│   └── PuppyRaffle_Audit_Report.pdf
 ├── PasswordStore/
-│   └── PasswordStore_Audit_Report.md
+│   └── PasswordStore_Audit_Report.pdf
 └── README.md
 ```
 
